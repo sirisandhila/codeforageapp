@@ -156,7 +156,7 @@ This project is licensed under the **MIT License**.
 **Siri Goud**
 
 * GitHub: https://github.com/sirisandhila
-* LinkedIn: https://www.linkedin.com/in/siri-sandhila-163870373<img width="2597" height="2590" alt="Screenshot_7-7-2026_123929_codeforageapp-odsiquib2-sirisandhila-s-projects vercel app" src="https://github.com/user-attachments/assets/e5295c66-21fe-47d7-9c4c-5468afb549e8" />
+* LinkedIn: https://www.linkedin.com/in/siri-sandhila-163870373
 
 
 ---
